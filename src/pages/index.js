@@ -15,7 +15,6 @@ const indexPage = () => (
   <>
     <HeadTag />
     <header className="IndexHeader">
-      <Canvas />
       <HeaderSection />
     </header>
     <div className="IndexSectionHeader" id="Projects">
