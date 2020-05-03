@@ -1,7 +1,6 @@
 import React from 'react';
 import { Link as InternalLink } from 'gatsby';
 import HeadTag from '../components/HeadTag';
-import Canvas from '../components/Canvas';
 import HeaderSection from '../sections/HeaderSection';
 import ProjectSection from '../sections/ProjectSection';
 import BlogSection from '../sections/BlogSection';
